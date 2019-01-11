@@ -1,4 +1,5 @@
 <h1>Church Content Management System</h1>
+<img src="a-dashboard.png"/>
 
 This is a church content management with online giving system build on Lavarel Framework. Please see attached installation guide.
 
