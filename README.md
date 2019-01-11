@@ -1,4 +1,4 @@
-#Church Content Management System
+<h1>Church Content Management System</h1>
 
 This is a church content management with online giving system build on Lavarel Framework. Please see attached installation guide.
 
@@ -19,14 +19,5 @@ or open a ticket https://amdtllc.com/support.
 ##Installation
 
 See instructions at https://gitlab.com/jgmuchiri/church-cms/wikis/Installation
-
-## Official Documentation
-
-* See attached UserGuide for installation instructions
-
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within this application, please send an e-mail to safety@amdtllc.com. All security vulnerabilities will be promptly addressed.
 
 ## Contributions to the project are welcome
