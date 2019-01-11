@@ -1,4 +1,4 @@
-##Church Content Management System
+#Church Content Management System
 
 This is a church content management with online giving system build on Lavarel Framework. Please see attached installation guide.
 
@@ -10,11 +10,11 @@ or open a ticket https://amdtllc.com/support.
 
 ##Requirements
 
-* PHP >5.6
+* PHP >= 7.1
 * SSH access
 * MySQL database
 * composer
-* npm
+* NPM
 
 ##Installation
 
@@ -29,3 +29,4 @@ See instructions at https://gitlab.com/jgmuchiri/church-cms/wikis/Installation
 
 If you discover a security vulnerability within this application, please send an e-mail to safety@amdtllc.com. All security vulnerabilities will be promptly addressed.
 
+## Contributions to the project are welcome
